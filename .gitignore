@@ -1,0 +1,13 @@
+# secrets
+.copycat_token
+.env
+# python / build
+__pycache__/
+*.pyc
+venv/
+.venv/
+build/
+dist/
+# user data (server exports)
+backups/*
+!backups/.gitkeep

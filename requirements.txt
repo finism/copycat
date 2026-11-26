@@ -1,0 +1,5 @@
+discord.py>=2.4.0
+customtkinter>=5.2.2
+pyinstaller>=6.10.0
+aiohttp>=3.9.0
+pillow>=10.0.0

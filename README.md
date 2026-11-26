@@ -3,6 +3,12 @@
 Application Windows (Python 3.12 + CustomTkinter) permettant de cloner
 intégralement un serveur Discord vers un autre à l'aide d'un bot.
 
+## Télécharger
+
+**[DiscordServerCloner.exe](https://github.com/finism/copycat/releases/latest)** : application Windows prête à lancer, rien à installer. Windows peut afficher un avertissement SmartScreen (exécutable non signé) : « Informations complémentaires » puis « Exécuter quand même ».
+
+Pour lancer depuis le code source, voir [Installation](#installation).
+
 ## ⚠️ Prérequis important
 
 Le bot doit être **invité sur les deux serveurs** (source et cible) avec la
